@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Deplyment3H", "Deplyment3H.phpproj", "{4EB81D86-2B64-4855-80E5-D7865C0AFD12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB81D86-2B64-4855-80E5-D7865C0AFD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB81D86-2B64-4855-80E5-D7865C0AFD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB81D86-2B64-4855-80E5-D7865C0AFD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB81D86-2B64-4855-80E5-D7865C0AFD12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968180F9-D88F-49EC-AFE2-877926D4511E}
+	EndGlobalSection
+EndGlobal
